@@ -2,7 +2,7 @@
 const galleries = {
   basico: [
     { type: 'video', src: 'video/interiormp2.mp4' },
-    { type: 'video', src: 'video/kit2mp-1.mp4' }
+    { type: 'video', src: 'video/kit2mp-1.mp4.mp4' }
     
   ],
   pro: [
